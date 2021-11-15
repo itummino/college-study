@@ -1,6 +1,7 @@
+![](/map.jpeg)
 # [U.S. College Study](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql) ![image](https://user-images.githubusercontent.com/84094369/120266976-053e6400-c271-11eb-878b-386c5a803d44.png)
 ## *An Economic Take on College Career Paths, Post-Grad Unemployment Rates & Gender/Location Salary Differences*
-![](/map.jpeg)
+
 ### Sources/Procedure:
 - Imported university post-grad salaries data from [Kaggle/Wall Street Journal](https://www.kaggle.com/wsj/college-salaries?select=salaries-by-college-type.csv)
 - Imported university majors/careers 2012-2014 data from [American Community Survey](https://github.com/fivethirtyeight/data/tree/master/college-majors)
